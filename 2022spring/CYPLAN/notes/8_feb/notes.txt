@@ -1,0 +1,19 @@
+real world networks have two properties 
+easy to navigate (short paths)
+have a structure (large clustering c >> c^random)
+
+Random Graph defined by (p,N) is built by connecting each pair of nodes with probability p
+Q-how do we estimate a random graph based on it's nodes and edges
+a- 
+1. degree distribution Bell shaped curve around average P(k) = 
+2. average degree of a random graph is p(N-1) is (for all networks) 2|E|/N
+3. average shortest path length- average shortest path <I^random> is about log(N)/log(k)
+4. Clustering coefficient- <C^random> is about p
+
+an empierical network you know E and N
+with E and N you can find k
+k = 2 * |E| / N
+
+k can be converted into a random graph
+c^random = p = <k>/N
+l^random = log(N)/log(k)

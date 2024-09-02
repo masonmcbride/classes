@@ -1,0 +1,22 @@
+Network Elements Learning Objectives
+0 Solution exercise from last Class
+1 Degree
+2 Clustering coefficient (defined today in the article) [saying this because clustering is kind of roughly defined in genreal]
+3 Shortest path lengths
+
+
+
+For each of the 3 metrics you can calculate: 
+7 Average in the network, and 8 histogram of the properties
+
+average degree of a graph sum of the degree of each node divided by total number of nodes 
+also
+2 * |number of edges| / total number of nodes 
+
+average degree of a directed graph
+
+average <in-degree>
+average <out-degree>
+
+
+real world social networks have high clustering and short average paths

@@ -1,0 +1,35 @@
+Clustering my finding similaries amoing the many dimenios in a multivariatea process, 
+CLustering involves sorting observations into groups
+Each group is referred to as a cluster 
+
+k-means clustering is equivalent to miminizing the variance of the variables. 
+
+How to quantitatively evaluate differnt values of k in k-means: 
+1. K-Means Inertia (elbow method) 
+  Finding the elbow in the graph that scores number of clusters by Inertia
+  Inertia is sum of distance of datapoint to it's centroid squared, maybe R2 norm or 
+2. Silhouette Coefficient or silhouette score
+  A metric used to calculate the goodness of a aclustering technnique
+  range of metric: (-1,1)
+  b - a / max(a, b)
+  where
+  a= average intra-cluster distance, average distance between each point in cluster 
+    (minimize distance in clusters)
+  b= average inter-cluster distance, average distance between all clusters 
+    (maximize distance between clusters)
+
+You need to be able to interpret your results so you make an observation about the data
+
+Even if you have the max silhouette score, a small amount of clusters still won't even tell you anything
+
+The silhouette score actually tells you about all the local maxes
+
+As a good method of data science development, once you have read in the data and transformed it in some way,
+you should save the current data to a static package and basically reset your data checkpoint from there
+all code from then on will be opening the file, rather than having all the functions still compose the transofmr
+
+data.census.gov/ced/sci/
+then google it and find variable name
+api.census.gov/data/2017/acs/acs5/variables.html
+
+don't have it because it's too expensive or don't have it because it's too horrible

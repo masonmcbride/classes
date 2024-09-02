@@ -1,0 +1,12 @@
+Q1. Done. (see: Notebook as g)
+Q2. Done. (see: Notebook as g_erdos_renyi)
+Q3. Done. (see: Notebook as C_p_k and L_p_k)
+Q4. C(p) = C(0) * (1 - p)^3
+Q5. Done. (see: Notebook as g_small_world)
+Q6. Done. (see: Notebook as g_barabasi_albert)
+Q7. Done. (see: Notebook)
+Q8. The model resembles the Barabasi Albert model because the data in the tables are similar and the degree distribution resembles of negative power law
+Q9. Yes, C >> C_random, and L =~ L_random
+
+
+

@@ -1,0 +1,42 @@
+LINKS------
+complexityexplained.github.io
+complexity-explorable/explorables
+
+Civil Planning: Introduction to Network
+========================================
+
+1. We will use a complex systems paradigm in this class
+Complex System Science -- so we can find the emergence of patterns
+
+
+Every single credit card transaction includes {latitude, longitude, time} :- {spacetime}
+
+History ----------------
+Jane Jacobs - journalist and activist
+Made us think of cities as problems of organized complexity (compositionality) 
+NYC does not have highways, and are car-minimized. 
+
+
+
+
+Smart Cities started as term from Companies, once big data started coming out, companies started getting interested in creating smart cities  
+
+equitable cities--people are interestesd in smart cities but 
+smart cities do not look at poeple or their needs
+  
+URBAN SYSTEMS - 
+understanding fundamental proccesses that drive, shape, and sustain cities and urbanization
+
+you don't need big data for Urban Science,
+how to read data and how to build a story
+
+WHAT IS A NEWTORK---A network is a graph made of nodes and edges
+nodes are entities of a complex system, and
+edges are their interactions
+
+punnet square
+{weighted, unweighted}
+{directed, undirected}
+
+edges are weighted (as opposed to nodes), 
+to represent the strength of the interaction 

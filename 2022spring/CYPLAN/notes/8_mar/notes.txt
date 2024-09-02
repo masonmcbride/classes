@@ -1,0 +1,42 @@
+What does the 
+
+<C> >> <C_random> 
+
+<l> ~ <l_random> 
+
+average shortest distance needs to be similar to a random graph
+clustering coeff needs to be much greater than a random graph
+
+EX: N = 375, E = 8124
+
+G_r(N, P) 
+
+G_r(375, what is P)
+
+We know: <k> = P(N-1)
+so <k>/(N-1) = P 
+
+>>> 43.3/374
+0.11577540106951871 = P 
+
+so G_r(375,0.115)
+<l_random> ~ log(N) / log(<k>) = log(375)/log(43.3) = 1.5
+
+Thus, SCMN is not a small world network because its clustering coeff is not much greater than 
+a random graph with the same N E's clustering coeff
+
+
+We can also define the strength of the node
+
+s(i) = sum([w_ij for j in V(i)])
+For a weighted directed graph, 
+
+A weight is a property of the links, the strength is the property of the node
+
+Gephi is an open-source software to visualize networks
+
+What it means to have a high pagerank in any abritrary network
+is that you are linked by other important nodes
+So for immigration, you are getting immigration from important countries
+
+Your pagerank goes up if you are linked to by other important pages

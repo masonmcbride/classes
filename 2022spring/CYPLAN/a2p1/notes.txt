@@ -1,0 +1,10 @@
+B99281  ALLOCATION OF HOUSEHOLD INTERNET ACCESS
+S2801  TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS
+B28007  LABOR FORCE STATUS BY PRESENCE OF A COMPUTER AND TYPES OF INTERNET SUBSCRIPTION IN HOUSEHOLD
+B25043  TENURE BY TELEPHONE SERVICE AVAILABLE BY AGE OF HOUSEHOLDER
+B99283  ALLOCATION OF HOUSEHOLD INTERNET SUBSCRIPTION TYPE
+
+WHat is the difference in food situations between 
+students in uc berkeley and students in uc santa cruz
+when it comes to what they eat, where they eat, how much it costs, 
+based on their income, student status, job status,

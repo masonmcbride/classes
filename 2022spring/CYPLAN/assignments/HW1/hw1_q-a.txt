@@ -1,0 +1,18 @@
+1. 
+(a) nodes represent networking routers, edges represent connections between the routers. Routers are packet forwarders and form a layer where data can be routed through many different paths along the routers. 
+(b) This should be read as as undirected graph because the edges represent the existence of a connection between the two routers, and infomration between routers can flow either way
+
+2. plotted in the .ipynb file 
+
+3. average clustering coefficient of the network is 0.15817326006876706
+
+4. I could not calculate the average shortest path in the network because my computer was taking too long to run it (I've run it multiple times having it compute for ~20 minutes and no result)
+This network has so many nodes and the algorithm is |V|^3 and I've tried it with simple test-networks with 5 nodeso and it output a value. It really just took too long to compute). 
+
+5. largest clustering coefficent of the network is 1.0 
+
+6. There are 10542 nodes with the clustering coefficent of 1.0, I stored them in a list named max_clustering_nodes in the .ipynb file
+ 
+7. Similar to question (4), I could not find the value of the longest shortest path of the network.
+
+8. Similar to question (4), I could not find the nodes in the longest shortest path of the network. But I provided the code in the .ipynb file that would calculate these two answers if I were to have obtained a list of all shortest paths between nodes. 

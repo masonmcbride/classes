@@ -1,0 +1,49 @@
+Q1. 
+  I read somewhere that Portland Oregon is one of the best cities for biking, notably, biking to commuto work. What does this population, made up of byclists, look like. I decided to characterize this population by analyzing the types of occupations they have, economic class, and by sex. Occupations is split into 6 partitions: 
+        1. Management, business, science, and arts occupations
+        2. Service occupations
+        3. Sales and office occupations
+        4. Natural resources, construction, and maintenance occupations
+        5. Production, transportation, and material moving occupations
+        6. Military specific occupations
+Class is analyzed by gini economic equality index by tract. And each tract is also analyzed by its composition of males and females. 
+
+Q2.
+pct_biking_male is graphed. 
+pct_biking_female is graphed. 
+tract_gini_index is graphed.
+pct_biking_mgmt_occ is graphed. 
+pct_biking_service_occ is graphed.
+pct_biking_sales_occ is graphed.
+pct_biking_const_occ is graphed.
+pct_biking_militlary_occ is graphed. 
+biking_total is graphed. 
+
+Q3.
+a) 41 census tracts
+b) 22,000 total bikers summed across all tracts
+c) 
+pct_biking_male, 
+pct_biking_female, 
+pct_biking_mgmt_occ, 
+pct_biking_service_occ,
+pct_biking_sales_occ,
+pct_biking_const_occ,
+pct_biking_militlary_occ,
+were all calculated and are relevant variables. 
+d) 5975.9 km^2 by sum(db["area_sqkm"])
+
+Q4. 
+a) the pdf of each variable is present in the seaborn sns.pairplot visualization. 
+
+b) I have population groups, not household groups
+
+Q5. 
+in jupyter notebook as db.describe()
+relevant variables are at the end of the databse because they are the percentage variable created with previous data. 
+
+Q6. 
+What is interesting to note is that the percentage of male bikers and the percentage of female bikers have very negative correlation which implies that as the percentage of males bikers increase, women bikers decrease. One of the only positive correlations is between having an occupation in management, science, or arts and males which suggests that more males of this occupation type ride bikes to work. There was also a correlation between income inequality in this occupation type so memberes of this occupation class with low economic status tend to prefer biking. 
+
+Q7. 
+I originally went into this data believing that there was going to be a large correlation between different occuptations and whether or not they commuted to work on bikes, but only specific occupations (like management, arts, science, business) had a visible correlation. I did notice that there is a gendered dimensin to the choice to bike, at least in portland, and I suspect that with clustering variables more visisble commuter types will emerge. 
