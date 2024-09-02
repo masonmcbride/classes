@@ -1,0 +1,35 @@
+Stand-up comedy has two coreo components: The comic and the audience
+
+And the experimental examples _complicate_ that construction
+
+For drew michaels, he is ambivalently tragic and comic at the same time
+it's because he can't hear us laugh so he can't modulate
+
+It makes you think "it is stand-up" which makes you question your belief 
+in the fact that we don't laugh at these types of situations
+
+Josh Johnson's mixtape is a feeling/moment you are sharing with him
+but his music is something you can connect to in a different way
+the music is very sad but the music is very bouncy,
+which makes a lingering melancholy
+
+The mixtape uses fading to show that the mixtape isn't linear
+or continuous by can be rearranged
+You start to interpret the parts of the special as themes, 
+rather than a coherent body of narrative and structure
+
+f(f(n)) < f(n+1)
+f(f(n+1)) < f(n+2)
+since f(f(n)) is less than f(n+1), 
+you can replace it in the above ineq. because it will still hold
+f(f(f(n))) < f(n+2)
+
+Show f(1) < f(2) < f(3) < ... by induction 
+
+
+
+f(f(0)) < f(1)
+
+A joke needs a setup and punchline
+a question with a surprise answer
+
