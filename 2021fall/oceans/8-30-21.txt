@@ -1,0 +1,11 @@
+:wqDepth Profiles
+
+Thermocline: where the temperature changes the most 
+Halocline: where the _____ changes the most
+
+Thermohaline Circulation: tempurates and salt conent impact density. More dense water sinks leading to meridional overturning circulations
+
+merdiional: relating to the meridian/equator(?)
+
+NADW: cold wter ner the poles sink forming North Atlantic Deep Water
+AABW: Antarctic Bottom Water
