@@ -1,0 +1,55 @@
+During the first age of globalization 
+Which is when settlements were organized around trade routes
+
+It is first in St Helena that the natural depletion of natural resources becomes visible to humans
+
+climate solutions were also thought about during this time: 
+climate theories
+empirical studies (by naturalists) 
+who are interested in the scientific potential of natural spaces
+-> Mauritius Botanical Garden and forest conservation policies 
+
+Created by global networks of colonial admins, scientists, and physicians 
+Botanical Gardens were models of the world 
+and they helped expand knowledge of wide ranges of Fauna 
+
+Generally, this the process of creating a smaller model consisting of objects that can be 
+viewed, picked up, arrangments and construction of categories and morphologies 
+
+It makes knowledge finite (because sets are countable)
+and makes global generalizations, and you can create comparisons between the two
+
+Problems with meteorology:
+No universal time
+2d tempurature measurements
+no ability to predict weather
+no standard measurement 
+-> only for scientific studies, industry was not able to access this
+
+Media Technology Solutions
+Steam Locomotive (Railroads) - 1810s
+The telegraph - 1840s
+The airplane - 1900s
+THe radio - 1910s
+
+Solution 2: Modelling
+
+The ENIAC (1945) - an enourmous computer
+funded by the US military to fund research and data collection at a vast scale
+
+von Neumann was the first to develop a computer model as to what would happen if carbon 
+in the atmosphere doubled
+(He wanted to control the weather to starve the soviet union into submission) 
+
+Sometimes models are built open previous existing models 
+
+in the 1960s, satellites were meant to gather photographic images of the weather from above
+(BUT THEY WERE REALLY USED FOR SURVEILLANCE)
+
+Model-data symbiosis
+-> models _process_ data to integrate it in the model
+<- data tunes the paramters of the model
+We work from model to data (not the other way around)
+
+Thus, strong connections exist between media technology and global information
+corr. Media technology determines what type of information exists globally and we process it as such

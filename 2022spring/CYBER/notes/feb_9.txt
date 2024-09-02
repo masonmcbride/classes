@@ -1,0 +1,84 @@
+--------------Time
+
+take the idea of flow and make it the flow of information
+
+Claude Shannon AT&T to Bell Labs
+
+allows FDR and Winston Churchill to commuicate safely -> vocoder
+
+Vocoder by the Military, and autotune for the public
+
+Analog- pitch is locked to speed, with autotune you can one without changing the other
+
+Decoupling a relationship
+
+"Break an object from time itself" means its process and change is not dependent on time, maybe it's new informatoin
+
+Istead of following time you can follow trends 
+you can record time by trend
+
+models as a way of predicting the future
+
+schemas are structures 
+
+time is product of railways, 
+like time kind of comes out of a product of social interaction
+Nothing moved fast enough relative to where the sun is in the sky to not use it to keep time
+-- Time was localized in these temporal areas
+Time is useful but terribly ficticious 
+
+Two novels could both be 400 pages and 1 book is over 10 years and 1 book is over 1 day
+There are some characters that never meet but we can consider them acting at the same time. 
+We are breaking time away from a single individual 
+
+Newspaper tell you what's new
+weekly vs daily
+
+-> the time span that a media operates in, truly changes the content of that media
+
+A timelapse can just be a single 2D image and it can account for any amount of time. 
+A painting can incorporate the same thing
+
+John von Neumann- mathematician, computer scientist, cybernetician
+Part of the Defense Industry of the US
+iAssociated with Military cybernetics
+
+ENIAC- large scale presonal computer
+Electronic Numerical Integrator and Computer
+The ENIAC was run by women (and hand soddered 5 million by women)
+
+Hydrogen bomb
+Climate modeling
+Global Warming
+
+Cold War Cyber Systems 
+SAGE- Semi Automatic Ground Environment
+
+A system of computers of a vast network of radars that would control the airspace
+$67 billion dollars and only 25% effective
+
+Operation Igloo White (1968-1973)
+Covert electronic warfare during the Vietnam Wars
+used unmanned sensors and deployed them on Ho Chi Minh Trail
+then relayed info and made decisions to bomb
+
+A fetishization of the machine happened here
+The idea that a machine is better at decisions than you
+
+Strategic Defense Initiative aka "Star Wars"
+World-wide system based on satellite relays
+$400-800 billion dollar cost
+
+Liberal- an optimistic political philosphy that believes in progress
+Humanism- any system of thought or actoin in which human interests, values, and dignity predominate
+
+Technological Progress vs. Social Progress -> liberal pick technological progress
+
+analogical reasong analogy as a universal exchange system
+mathematics as the "most colossal metaphor imaginable" -Wiener
+
+Chinese book of changes is the basis of binary computing
+
+You can take an epub file and convert it into a really lightweight, quick, easily compressible (?..sendable?), 
+form that opens up in a text based terminal where no mouse is required to navigate through pages 
+there can be mulitple modes on top of the text based book and many commands

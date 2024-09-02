@@ -1,0 +1,34 @@
+Visualization: a psychological process (in our minds) that became
+a set of rendering practices (carried about by machines)
+
+They are about making the in-human relatable to the human
+                    as opp^osed to "non-" ^relatability is categorical
+
+By modeling the world in particular ways, visualizations _train our perception_
+and encourage us to think of interfaces as natural
+
+What kind of practices does the interface itself encourage 
+optimization
+from 1882, "a sufrace forming a commong boundary of two bodes, spaces or phases (ex: oil-water interface)"
+Interfaces exist the point of a hyphen [?m-?m]
+
+from 1962, "the place at which indepdenedent and often unrelated [(hetrogenous)]systems meet and 
+act on or communicatin with each other"
+(ex: the wildland-urban interface)
+
+
+An interface is a construction where we make incommensurate things commensurable,
+this definition implies that we consturct the bridge between objects, rather
+than creating the object and its ins and outs
+
+Really complicated photos and images make humans perceive complex and unexpected patterns
+which is like a feedback loop in perception 
+
+(Cybernetic) Design-theory from Fuller: Synergetics
+Dynamaxian Car
+Triton City
+Worlde Game
+
+Cybernetic heuristic:
+you need a choice between options to guarantee positive amount of information transmission
+Idea: recursive shannon theory of information (encoder-noise-decoder) system 
