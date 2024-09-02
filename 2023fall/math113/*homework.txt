@@ -1,0 +1,11 @@
+### LIST OF ALL MATH 113 HOMEWORK ASSIGNMENTS ###
+[DONE] HW 1: {1,2,3} [Functions, Operations, Relations]
+[DONE] HW 2: {16-18,21,23,25,26} [Functions, Operations, Relations]
+HW 3: {16,20,23,28-31} [Functions, Operations, Relations]
+HW 4: {1,2,3,31,33,34} [Mathematical structures explained in categorical language]
+HW 5: {4-10} [Mathematical structures explained in categorical language]
+HW 6: {11-17} [Mathematical structures explained in categorical language]
+HW 7: {2,3,5-11} [Natural Numbers]
+HW 8: {7-10,13,15,18,19,21,22} [Twisted Sets]
+
+HW 13: {98,102,113,115,118,123,125,127,128,135,136,147} [Functions, Operations, Relations]

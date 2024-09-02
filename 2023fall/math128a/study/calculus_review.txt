@@ -1,0 +1,3 @@
+1. Intermediate Value Theorem
+2. Mean Value Theorem
+3. Taylor's Theorem
