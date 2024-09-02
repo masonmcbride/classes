@@ -1,0 +1,9 @@
+Instructor: Peng Zhou
+Office: 753 Evans
+
+Course Website: https://courses.wikinana.org/math54-f22/start
+  you can make your own page on the course website
+
+Office Hour T\Th
+
+Linear in Linear Algrabra means we will be mostly working with linear operations

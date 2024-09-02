@@ -1,0 +1,17 @@
+Lab 3 has 4 parts 
+
+[X] 1. Film Dicussion
+  Fill in table that compares "Under the Dome" and "Inconvenient Truth"
+  Daniel Tan
+  Melissa Wright
+  Eduardo Sanchez
+
+[X] 2. Particulate Matter and Air Quality Index.
+  (1) What is AQI?
+  (2) What is the difference between PM concentration (or other pollutant concentration) and AQI, as reported and regulated by the EPA?
+
+[X] 3. Case Study
+  https://docs.google.com/document/d/1zxC5WC_rHmzSKz2j_w3MJgZfZt-Y9LKlON1y1eirnOY/edit
+  Maybe done? 
+
+[X] 4. 
