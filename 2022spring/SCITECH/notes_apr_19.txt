@@ -1,0 +1,47 @@
+Spatial geography can sometimes get complicated because of language systems
+
+This reveals a deep deep problem with the mapping of Hong Kong itself
+IT's really hard in Hong Kong to accurately locate yourself based on Google maps
+Google maps is what a foreigner would use. 
+
+Problems with database, mapping, colonialism, landscape-itself, tranlation (Cantonese <-> English)
+
+Maps are really complicated objects
+There's text, images, toponyms, textures, colors, lines, that all mean different things. 
+
+But maps are just models of the world, which is even more complicated
+
+Abstraction of a map isn't enough, because you are left with gaps
+
+Humanities talk about classification/taxonomy they make categorial stuff?
+THere's definitely a connection between "aggregation" and "zooming out"
+
+The people who choose what is exaggerated, choose their interests first
+
+The digital map is both more and less complicated.
+Like looking at google maps shows how empty the map really is now. 
+SO why did we end up with the current google maps design?
+
+The history of cartography and the history of computing
+both are about turning the world into numbers
+they are both turning the world into numbers and then they eventually meet up
+
+they both have used women computing workforces before automating (same as history of computing)
+ArcGIS
+
+We use GPS imagery for so much but it's hard in forest-y areas or dense areas
+
+The perspective that maps and charts all of these areas, you can look out 
+for where the gold is, where the minerals are, where the trees are because this is 
+  the most important thing to the DoD. 
+
+Whoever had the strongest navy pretty much decided the meridian datum
+
+Ezri land is the most OP thing in the world
+
+Solutions to the mapping problem: instead of taking a top-down view on mapping, 
+take a bottom-up view on mapping that starts with the space in the area
+
+It's not about "which map is better", rather which map is ______
+
+Using a piece of driftwood is a better version of a map

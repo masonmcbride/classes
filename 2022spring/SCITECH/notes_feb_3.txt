@@ -1,0 +1,74 @@
+------Feb 3
+
+Criticism of STS- "how can we tell what is what"
+
+iLast lecture: what is considered science/psuedoscience can change (in a cycle way) over the years
+
+c.b.t. > psy-sis
+1. efficacy
+2. short-term (cost-effective)
+3. insurers liked it
+   the first thing you gotta do when you seek therapy is get your insurance in order
+4. c.b.t. is really friendly to computation models 
+
+---------hard vs. soft science
+
+
+Technology, the very word is obscuring what technologies are. 
+
+STS is not interested in phantom-objectivity
+
+tl;dr this is a screed against technological determinism 
+
+harpers magazine paywall
+
+---Google History---
+
+Google is the most ubiquitous media company in the world
+Now I'm thinking it's like c.b.t. where computatin and insurance are built-in
+
+We don't think of airplanes as big-tech, but we should, w
+we don't think of car manufactueres as big-tech but we should
+
+Apple, Amazon, Microsoft, and Google (TODO the geography of these companies)
+
+Google came from the dream of Stanford, Stanfords dream was to have people working in industry and universtiy at the same time, and share the profits. If you are in industry, you can still get a masters from Stanford and vice versa. 
+
+Search engine was not coded by the two co-founders 
+Scott Hasan made the search engine, but was pushed out before Google was founded. 
+
+Backrub! Look at the interlinks between how well cited a web page is. 
+Backrub becomes PageRank becomes Google (misspelling of Googol)
+There is a den mother figure taking care of these Google men aroudn the clock. 
+(why isn't this mother figure part of the technology)
+
+--2001 for technnology 
+-----------The dotcom bubble burst
+other companies survived Paypal (Peter Thiel)
+
+
+NOW-----Google hired ethics teams to greenlight what they are building
+
+"How do we know if technolog is good or bad"
+The people who are paid to tell whether it's good or bad
+A-sometimes their work is completely obliterated
+
+STORY: Google built the most expensive AI ethics team and destoryed it
+
+Timnit Gebru got locked out by getting locked out corporate email (locking out of communications)
+exposed a *core bias* in one of Google's most popular development lines. 
+Margaret Mitchell later got fired from Google, dissolvinig a lot of the ethics team in Google.
+started a company called DAIR, anti-corporate ehtics of AI research. 
+
+Alex Hanna teaches in the Berkeley I. School
+Alex wrote a crazy resignation letter and it was posted yesterday (2/3/22)
+(why isn't this mother figure part of the technology)
+Apple, Amazon, Microsoft, and Google (TODO the geography of these companies)
+harpers magazine paywall
+
+how hiring "the best researchers" becomes "hiring peple who will disagree with you"
+
+What to do:
+1. STS as a perspective on the world
+2. communication (find pressure points)
+3. learn what you're consenting too, and actually choose consent

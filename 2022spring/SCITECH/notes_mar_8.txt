@@ -1,0 +1,77 @@
+-----Feminist STS interventions into technology & medicine
+
+The rubber wheel has a very gendered history
+
+Read McGraw again and analyze how she makes her arguments about the objects
+
+Labor, labor done out of the home and misremembered as masculinized 
+
+Feminization of labor- an account of how labor changes over time
+(1)
+what follows from feminization is the loss of value in the field
+ex: nursing, has been devalued over current times, despite the crazy amounts of work they do
+ex: elementary school,
+ex: computing
+
+(2) Work is becoming like the home (gendered in terms of its affects)
+It's not just that these fields get devalued, but what kind of affect we expect at work 
+"service with a smile" "work is family"- these are feminized affects that first come service
+then bleed into every sector
+Also didn't reduce hours or increase pay
+
+Watch "League of your Own"
+
+Work doesn't just get feminized but it also gets masculinzed
+This dynamic is much better analyzing a iterative process of women's labor
+
+Heroines of history
+"Hidden Figures" (movie/book) Women of Nasa
+Grace Hopper first person to develop a compiler for a programming language 
+Ada Lovelace (Lord Byron's Daughter), at Oxford there's a building named after her
+
+Women were the first programmers and contributed substantially to the industry
+in the 70s and 80s computing becomes masculinized when it used to be feminized
+
+softwork become software
+and hardware becomes masculinized
+
+in the 60s, there is a switch in telecom from analog calling to digial calling
+The reason women become automate dout was because of paid time off and disability
+
+GUI and MIT Media Lab 
+exportation of US techno-solutionism 
+
+a compute-er was a woman doing massive amounts of calculations by hand
+
+When ENIAC was the computer (it was turing-complete)
+During this time men thought computers were "boring, stupid, and soft labor"
+"The real glory came from making the machines" - hardware
+
+Women were recruited into IBM, and they were making the first punch cards
+They were treated as equivalent to secretaries 
+
+Many protocols we have in place now (beta-testing)
+The erasure was pretty total, ENIAC was scrubbed of women  
+
+First woman professor around 1970 (1 professor)
+
+In 1984, Apple debuts the Apple 2
+-> Computers are really cools
+So now boys think software is cool, insane
+And women lose all ground they made in computing and well-paid labor
+
+STS tries to locate a responsibility (why did the features <not bug> get baked in)
+
+Computer Historian Janet Abbate
+underyling the assumption is that women were good programemrs because they were already automated, 
+and in turn could produce could computers
+-> fem-zation to mas-zation is multiply determined
+
+"Your Computer is on fire"- the most wonderful, readable, teachable books from the STS 
+perspective in computing
+
+There has been a "Women's Recession" over the last 2 years over childcare 
+
+The pipeline is to farmer (tinkerer [tractor, radio, etc]) -> MIT -> Silicon Valley
+
+Most chip production is done by indigenous women 
